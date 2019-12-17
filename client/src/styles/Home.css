@@ -1,0 +1,13 @@
+.ticket-form {
+    width:600px;
+    border: solid black 0.5px;
+    align-self: center;
+    padding: 10px;
+}
+
+.show-tickets {
+    width: 100%;
+    border: solid black 0.5px;
+    padding: 10px;
+    align-content: center;
+}
